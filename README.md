@@ -1,3 +1,5 @@
+[Link to Tableau dashboard](https://public.tableau.com/profile/christian.hargett#!/vizhome/citibike_challenge_16028056973160/NYCStory?publish=yes)
+
 # bikesharing
 
 ## Overview
