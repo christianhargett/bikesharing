@@ -26,4 +26,11 @@ These graphs tell us:
 
 When looking at the overall trips by weekday by hour, we arrive at the below graphic:
 
-![](
+![](https://github.com/christianhargett/bikesharing/blob/main/Trips_by_weekday_per_hour.png)
+
+With this heatmap we can determine a few things:
+- During the week, the busiest times are mid-morning and the afternoon. We can likely infer that this high volume is driven by commuters using bikeshare to get to and from work.
+- The busiest days of the week are Saturday and Sunday. On these days, users are most active from 10 am - 7 pm. 
+- The least busiest time is 1 am - 4 am on any week day. This aids us in scheduling maintenance hours for the bikes.
+
+
