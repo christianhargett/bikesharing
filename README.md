@@ -16,3 +16,10 @@
 ### Another data point is that the male gender makes up vast majority of bikeshare users. With this information we know that we should focus on marketing towards other genders in order to gain more non-male users. 
 
 ### Lastly, we can derive from the graphic that the peak hours for bikeshare usage is late morning as well as late afternoon. This is important because if we implement bikesharing in Des Moines, we know for a fact that we need to have bikes available during those times. If any bikes were to be out of commission, perhaps for maintenance, then we know that the best times for that are early in the morning (1 am - 4 am). 
+
+## We were also able to plot out total checkout times by user, as well as checkout times by gender.
+![](https://github.com/christianhargett/bikesharing/blob/main/Checkout_time_by_user.png)
+
+![](https://github.com/christianhargett/bikesharing/blob/main/Checkout_times_by_gender.png)
+
+### These graphs tell us: 
