@@ -45,5 +45,13 @@ Our final graphic breaks down user trips by gender by weekday:
 
 With this heatmap we are able to determine the busiest days by gender as well as by user type. As expected, the most common user is a male who is subscribed to Citi Bike's services. The most common days that these types of users use the bikeshare app are Thursday, Friday, Tuesday, and Monday (in that order). 
 
+## Summary
+
+After analyzing trends in Tableau with the data provided, we are much more confident in our abilities to bring bikesharing to Des Moines. We have been able to determine the most common days of the week that users will tend to use the app, as well as the most common hours on those specific days. With this information we will be able to tweak our supply chain of bikes so that we provide the optimal amount of bikes for users. We can also determine the best times of the day/week to perform maintenance on these bikes. We were also able to determine the most common user of bikeshare (a male who is subscribed to the bikeshare service). With this information we know that we should heavily market our subscription services to potential-users, considering those types of users make up the vast majority of Citi Bike's users in NYC. We can also determine that we need to make an effort to market to non-male users in order to increase overall market share. 
+
+Additional trends that we might consider looking into before delivering our final pitch to investors are location data and start data. For instance, I would be interested in mapping out the most common start points for users at specific times of the day. I would do this by plotting out the most common start points on a map and analyzing why those are the most common start points. With this data we would be able to predict where in the city that user are most likely to hop on a bike at any given time. 
+
+Another plot I would be interested in seeing is average trip duration by birth year. With this information we would be able to see how long each age group generally spends riding the bike per trip. I would go about doing this by creating bins of trip duration (ie. 5-10 mins is one bin, 10-15 mins is another bin, etc.) and plotting out trip counts within those bins by age group on a bar chart. With this data, we could then look into the reasons why certain age groups spend longer/shorter amounts of time on the bike. Once we determine those drivers, the company could look into improvements that would cause each age group to spend longer amounts of time on the bike (ie. better bike seats, higher quality gears, increased app functionality, etc.)
+
 
 
