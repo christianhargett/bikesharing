@@ -33,4 +33,17 @@ With this heatmap we can determine a few things:
 - The busiest days of the week are Saturday and Sunday. On these days, users are most active from 10 am - 7 pm. 
 - The least busiest time is 1 am - 4 am on any week day. This aids us in scheduling maintenance hours for the bikes.
 
+We have created a similar graphic, however we have broken it down by gender:
+
+![](https://github.com/christianhargett/bikesharing/blob/main/Trips_by_gender_weekday_per_hour.png)
+
+This heatmap shows similar trends to the one above it, however this new heatmap accentuates the trend of Citi Bike capturing more male users than non-male users.
+
+Our final graphic breaks down user trips by gender by weekday:
+
+![](https://github.com/christianhargett/bikesharing/blob/main/User_trips_by_gender_by_weekday.png)
+
+With this heatmap we are able to determine the busiest days by gender as well as by user type. As expected, the most common user is a male who is subscribed to Citi Bike's services. The most common days that these types of users use the bikeshare app are Thursday, Friday, Tuesday, and Monday (in that order). 
+
+
 
