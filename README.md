@@ -24,7 +24,7 @@ We were also able to plot out total checkout times by user, as well as checkout 
 
 ![](https://github.com/christianhargett/bikesharing/blob/main/Checkout_times_by_gender.png)
 
-These graphs tell us:
+These graphs tell us that the most common bike ride duration is 5-6 minutes. We can infer that this is driven by the fact that NYC is a city whose destinations are relatively close together (as opposed to a rural area).
 
 When looking at the overall trips by weekday by hour, we arrive at the below graphic:
 
